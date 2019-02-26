@@ -1,5 +1,7 @@
 # DISC 1
 
+> * [Back Home](./README.md)
+
 power is not a thing to sought  
 of bought like a corrupt vote  
 it is not a thing to be sold  
@@ -34,3 +36,5 @@ the end or repercussion
 for my voice must be heard  
 and my soul must rise and kiss the sky  
 like a golden dark cloud
+
+> * [Back Home](./README.md
